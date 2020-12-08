@@ -199,7 +199,7 @@ yarn rw g deploy vercel
 
 ```
 datasource DS {
-  provider = "postgresql"
+  provider = "postgres"
   url      = env("DATABASE_URL")
 }
 ```
