@@ -26,12 +26,12 @@ Your browser should open automatically to `http://localhost:8910` to see the web
 ## How to create a Redwood app and push it to GitHub
 
 ```
-yarn create redwood-app ./rw-reactjax-test
-cd rw-reactjax-test
+yarn create redwood-app ./rw-reactjax
+cd rw-reactjax
 git init && git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/ajcwebdev/rw-reactjax-test.git
+git remote add origin https://github.com/ajcwebdev/rw-reactjax.git
 git push -u origin main
 ```
 
