@@ -192,3 +192,14 @@ export const Success = ({ posts }) => {
   ))
 }
 ```
+
+```
+yarn rw g deploy vercel
+```
+
+```
+datasource DS {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+```
