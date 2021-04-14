@@ -1,3 +1,5 @@
+## This project was built during an online meetup and uses a very old version of Redwood; it is intended for demonstrative and archival purposes only
+
 # Redwood
 
 > **WARNING:** RedwoodJS software has not reached a stable version 1.0 and should not be considered suitable for production use. In the "make it work; make it right; make it fast" paradigm, Redwood is in the later stages of the "make it work" phase.
